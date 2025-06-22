@@ -1,1 +1,21 @@
-".ipynb_checkpoints/" 
+# Ignore Jupyter Notebook checkpoints folder
+.ipynb_checkpoints/
+
+# Ignore other project folders
+JSON_TO_IPYNB/
+Other_PdM_Notebooks/
+Other_Thesis/
+Thesis_Working Notebook/
+anaconda_projects/
+
+# Ignore specific file types and files
+*.xlsx
+*.pdf
+*.odt
+*.csv
+*.tmp
+*.txt
+diplomatiki_notes_20_03_2025.odt
+
+# Ignore temporary Microsoft Office files
+~$*
